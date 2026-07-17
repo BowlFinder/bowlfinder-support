@@ -1,2 +1,1 @@
-# bowlfinder-support
-Publically available support info
+Welcome to Bowl Finder Support. This is a simple read me, if you need any help with our app or have feature request please submit it as a github ticket here via issues, if you need to reach me the best path will be to use osvaldo [at] armas [dot] ai
