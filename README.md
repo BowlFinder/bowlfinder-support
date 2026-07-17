@@ -17,6 +17,10 @@ Your phone number is used solely for the following purposes:
 
 We do not use your phone number for marketing, advertising, or any purpose other than those described above, and we do not sell or rent your phone number to third parties.
 
+**Third-Party Service Providers**
+
+To perform phone number verification, we rely on a third-party service provider, Twilio, Inc. ("Twilio"), to deliver authentication codes via SMS or voice call. In connection with this service, your phone number is shared with Twilio solely for the purpose of transmitting and validating verification codes. Twilio processes this information on our behalf, under contractual terms that restrict its use to providing the verification service, and does not use it for its own independent marketing or advertising purposes. We do not share your phone number with any other third party except as described in this section or as required by law.
+
 **Data Security**
 
 All phone numbers collected by the App are encrypted at rest and in transit using industry-standard encryption methods. Access to this encrypted data is restricted to authorized personnel and systems necessary to provide the authentication and logging functions described above.
